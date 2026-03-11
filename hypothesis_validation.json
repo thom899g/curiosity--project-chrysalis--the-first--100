@@ -1,0 +1,13 @@
+{
+  "target_market": "ERC20_new_listings",
+  "exchanges": ["uniswap_v3", "sushiswap", "pancakeswap"],
+  "time_window_minutes": 30,
+  "min_profit_threshold_usd": 0.50,
+  "max_slippage_bps": 50,
+  "gas_cost_buffer_eth": 0.0005,
+  "max_daily_loss_usd": 15.79,
+  "consecutive_failure_limit": 3,
+  "edge_strength_threshold": 0.3,
+  "hypothesis_timestamp": "2024-11-27T00:00:00Z",
+  "validation_status": "active"
+}
